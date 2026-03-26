@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Ashutosh!👋
 
-<!--
-**ashutoshp2006/ashutoshp2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###👨‍💻B.tech Computer Student
 
-Here are some ideas to get you started:
+I am a passionate developer currently building my foundation in data structures and app development and also 
+focusing on building a strong foundation in cyber security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-🛠 ** I'm currently working on **: Enhancing my skills in **python/java/c++** and also **linux**.
+-☘ ** I'm currently learning **: Data structure and algorithm(DSA) and system Design basics.
+-👍 ** I'm looking collaborate on **: App development projects.
+
+
+###🛠 Tech stack
+** languages: ** C,C++,Java,Python
+** Tools: ** Git,Github,VS Code,Linux
